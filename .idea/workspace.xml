@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e82e6828-1a7f-45f5-9683-587aed266c9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/faceRecon/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faceRecon/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faceRecon/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/faceRecon/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faceRecon/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/faceRecon/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,22 +86,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="452" y="179" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1583356675063" />
-    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1583355547865">
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1583362909588">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583355547865" />
-    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1583355547865">
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583362909588" />
+    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1583362909588">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583355547865" />
-    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1583355547864">
+    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583362909588" />
+    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1583362909588">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583355547864" />
-    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1583355547865">
+    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583362909588" />
+    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1583362909588">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583355547865" />
+    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583362909588" />
     <state x="390" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1583344970431">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
